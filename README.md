@@ -9,7 +9,7 @@ node --version
 ```
 
 ### How to Run
-From repository root or within this `javascript` folder:
+From repository root folder:
 ```powershell
 cd javascript
 node main.js            # summary (default)
